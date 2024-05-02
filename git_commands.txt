@@ -1,0 +1,6 @@
+git config --global user.email "email here"
+git config --global user.name "name here"
+
+git add .
+git commit -m "commit text here"
+git push
